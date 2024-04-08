@@ -1,4 +1,4 @@
-#Projeto de Tratamento e Análise Exploratório de dados
+# Projeto de Tratamento e Análise Exploratório de dados
 
 Bem-vindo ao meu projeto de tratamento e análise exploratória de dados de uma transportadora. Este projeto utiliza
 Python como linguagem princiapl, incorporando um ambiente de Data Lake com camadas Bronze,silver e gold
@@ -12,8 +12,16 @@ utilizando a poderosa biblioteca matplotlib para visualização dos gráficos de
 - Matplotlib : A biblioteca Matplotlib foi empregada para criar gráficos e visualizações detalhadas, fornecendo
   uma compreensão clara dos padrões nos dados
 
-  #Estrutura
+  # Estrutura
 
   - /scripts: Contém os scripts Python utilizados para manipulação , tratamento e anaálise exploratória dos dados.
   - /data_lake: Este diretório contém a estrutura do Data Lake, incluindo as camandas Bronze,Silver e Gold.
   - /visualizations: Aqui estão os gráficos e visualizações gerados durante a análise exploratória dos dados.
+ 
+  # Contribuição
+
+  Estou aberto a contirbuições onde posso melhorar a analise e criar novos insigths apartir dos dados apresentados
+
+  # Licença
+
+  Este projeto está licenciado sob a Licença MIT
