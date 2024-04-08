@@ -1,4 +1,4 @@
-# Projeto de Tratamento e Análise Exploratório de dados
+#Projeto de Tratamento e Análise Exploratório de dados
 
 Bem-vindo ao meu projeto de tratamento e análise exploratória de dados de uma transportadora. Este projeto utiliza
 Python como linguagem princiapl, incorporando um ambiente de Data Lake com camadas Bronze,silver e gold
