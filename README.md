@@ -14,9 +14,9 @@ utilizando a poderosa biblioteca matplotlib para visualização dos gráficos de
 
   # Estrutura
 
-  - /scripts: Contém os scripts Python utilizados para manipulação , tratamento e anaálise exploratória dos dados.
-  - /data_lake: Este diretório contém a estrutura do Data Lake, incluindo as camandas Bronze,Silver e Gold.
-  - /visualizations: Aqui estão os gráficos e visualizações gerados durante a análise exploratória dos dados.
+  - /Bronze: Contém os arquivo .py em Python que foi utilizado para realizar todo ETL e também os dados brutos
+  - /silver: Essa camada contém os dados tratados que foi estava na camada Broze.
+  - /gold: Essa camada possui os gráficos e visualizações gerados durante a análise exploratória dos dados e também é a camada utilizada pelo BI. 
  
   # Contribuição
 
