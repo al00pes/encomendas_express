@@ -14,9 +14,9 @@ utilizando a poderosa biblioteca matplotlib para visualização dos gráficos de
 
   # Estrutura
 
-  - /Bronze: Contém os arquivo .py em Python que foi utilizado para realizar todo ETL e também os dados brutos
-  - silver: Essa camada contém os dados tratados que foi estava na camada Broze.
-  - /gold: Essa camada possui os gráficos e visualizações gerados durante a análise exploratória dos dados e também é a camada utilizada pelo BI. 
+  - [Bronze](https://github.com/al00pes/encomendas_express/tree/f71adda5b341c9f2d9dc4be6aff38d7dea8907e8/bronze): Contém os arquivo .py em Python que foi utilizado para realizar todo ETL e também os dados brutos
+  - https://github.com/al00pes/encomendas_express/tree/f71adda5b341c9f2d9dc4be6aff38d7dea8907e8/silver: Essa camada contém os dados tratados que foi estava na camada Broze.
+  - https://github.com/al00pes/encomendas_express/tree/f71adda5b341c9f2d9dc4be6aff38d7dea8907e8/gold: Essa camada possui os gráficos e visualizações gerados durante a análise exploratória dos dados e também é a camada utilizada pelo BI. 
  
   # Contribuição
 
